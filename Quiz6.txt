@@ -32,3 +32,21 @@ Q4
 
 Q5
 301.51 CORRECT
+
+
+*****************
+
+Q1
+4102 CORRECT
+
+Q2
+8097 CORRECT
+
+Q3
+55.84
+
+Q4
+1.87 CORRECT
+
+Q5
+301.51 CORRECT
